@@ -34,7 +34,7 @@ ChoreChamp is an iOS app for trading, managing, and completing chores collaborat
 ---
 
 ### Installation  
-1. Clone the repository:  
+1. Clone the repository in XCode:  
    ```bash
    git clone https://github.com/username/chorechamp.git
    ```
