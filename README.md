@@ -21,8 +21,7 @@ ChoreChamp is an iOS app for trading, managing, and completing chores collaborat
 
 ### Tech Stack  
 - **Frontend:** Swift, SwiftUI  
-- **Backend:** Supabase (Auth, Database)  
-- **Architecture:** MVVM  
+- **Backend:** Supabase (Auth, Database) 
 
 ---
 
